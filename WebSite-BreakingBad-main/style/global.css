@@ -1,5 +1,26 @@
-header {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --fontePrimaria:"Montserrat", sans-serif;
+    --titulo: #124026;
+    --colorHeader: #595627;
+}
+
+
+* {
+    font-family: var(--fontePrimaria)
+}
+
+header > nav {
     margin-bottom: 15px;
+    font-size: 1.2rem;
+    background-color: var(--colorHeader) !important;
+    font-weight: 500;
+}
+
+h1 {
+    color: var(--titulo);
+    font-weight: bold;
 }
 
 .logo {
@@ -7,13 +28,14 @@ header {
 }
 
 body {
-    background-image: url(../img/smoke_bg.jpg);
-    background-repeat: no-repeat;
+    background-image: url(../img/bb_bg.webp);
+    background-repeat: inherit;
+    width: 100%;
 }
 
 main {
-    background-color: whitesmoke;
-    width: 950px;
+    background-color: whitesmoke;    
+    width: 1150px;
     display: flex;
     margin: auto;
     border-radius: 10px;
