@@ -1,3 +1,25 @@
+:root {
+    --destaque: #595627 ;
+}
+
 p {
     font-weight: 500;
+}
+
+.banner_bb {
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+    align-items: center; /* Centraliza verticalmente */
+}
+
+.banner_bb img {
+    border-radius: 10px;
+    width: 1050px;
+    height: 690px;
+    box-shadow: 10px black;
+}
+
+em {
+    color: var(--destaque);
+    font-weight: 700;
 }

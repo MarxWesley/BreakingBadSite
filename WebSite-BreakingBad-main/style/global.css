@@ -29,15 +29,15 @@ h1 {
 
 body {
     background-image: url(../img/bb_bg.webp);
-    background-repeat: inherit;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
     width: 100%;
 }
 
 main {
     background-color: whitesmoke;    
     width: 1150px;
-    display: flex;
     margin: auto;
     border-radius: 10px;
-    padding: 10px;
+    padding: 20px 40px 20px 40px;
 }
