@@ -13,7 +13,7 @@ O projeto propõe o desenvolvimento de testes utilizando Java e Selenium para te
 - Faker: Geração de Dados
 
 ## ⚙️ Para acessas nosso site clique no link abaixo
-- [WebSite Breaking Bad](https://marxwesley.github.io/BreakingBadSite/WebSite-BreakingBad-main/index.html))
+- [WebSite Breaking Bad](https://marxwesley.github.io/BreakingBadSite/WebSite-BreakingBad-main/index.html)
 
 ## 💻 Tecnologias utilizadas
 - CSS
