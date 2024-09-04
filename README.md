@@ -22,4 +22,4 @@ O projeto propõe o desenvolvimento de testes utilizando Java e Selenium para te
 - GitHub
 
 ## 💻 Biblíotecas utilizadas
-- Bootsrap
+- Bootstrap
