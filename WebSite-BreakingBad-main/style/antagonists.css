@@ -1,6 +1,16 @@
-.enfase > p{
-    text-align: center;
+article {
+    margin-bottom: 30px;
+
+}
+.enfase {
     display: flex;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+.enfase > i {
+    text-align: center;
+    font-size: 0.9em;
 }
