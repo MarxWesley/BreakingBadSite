@@ -16,6 +16,10 @@
     font-family: var(--fontePrimaria)
 }
 
+p {
+    font-size: 1.2em;
+}
+
 header > nav {
     margin-bottom: 15px;
     font-size: 1.2rem;
@@ -57,16 +61,14 @@ header > nav {
 
 h1 {
     color: var(--header);
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .logo {
     width: 250px;
     height: 85px;
-    padding-left: 40px;
+    padding-left: 10px;
 }
-
-
 
 body {
     background-image: url(../img/bb_bg.webp);
