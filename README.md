@@ -6,11 +6,9 @@ O Projeto a seguir tem como objetivo principal desenvolver um site para fins edu
 - Wesley Bertin Marques ([Linkedin](https://www.linkedin.com/in/wesley-bertin-marques-a7b2b4230/))
 
 ## 📄 Descrição
-O projeto propõe o desenvolvimento de testes utilizando Java e Selenium para testes web, verificando a resposta da aplicação, gerando massa de dados utilizando o faker. 
+O projeto propõe o desenvolvimento de um site de Breaking Bad voltado para fãs, para promover o desenvolvimento das habilidades em HTML e CSS. 
 ## 🖇️ Especificações
-- Plataforma explorada:  [Automation Exercise](https://automationexercise.com/)
-- Java e Selenium como ferramentas de Automação
-- Faker: Geração de Dados
+- VSCode: É um editor de código-fonte leve e multiplataforma, com suporte para várias linguagens, extensões e ferramentas de desenvolvimento integradas.
 
 ## ⚙️ Para acessas nosso site clique no link abaixo
 - [WebSite Breaking Bad](https://marxwesley.github.io/BreakingBadSite/WebSite-BreakingBad-main/index.html)
@@ -18,8 +16,9 @@ O projeto propõe o desenvolvimento de testes utilizando Java e Selenium para te
 ## 💻 Tecnologias utilizadas
 - CSS
 - HTML
-- Git
+- [Git](https://git-scm.com)
 - GitHub
+- [VSCode](https://code.visualstudio.com)
 
 ## 💻 Biblíotecas utilizadas
-- Bootstrap
+- [Bootstrap](https://getbootstrap.com)
